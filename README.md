@@ -37,7 +37,7 @@
 <img width="340" height="155" align="center" 
       src=https://github-readme-stats.vercel.app/api?username=chmuradin&show_icons=true&theme=cobalt&layout=compact)/>
 <img width="340" height="155" align="center" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=chmuradin&langs_count=6&exclude_repo=mpum&&exclude_repo=AABDW&theme=cobalt&line_height=27&layout=compact" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=chmuradin&langs_count=6&exclude_repo=mpum&&exclude_repo=AABDW&&theme=cobalt&line_height=27&layout=compact" />
 </p>
 
 
