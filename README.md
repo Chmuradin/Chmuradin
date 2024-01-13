@@ -11,13 +11,15 @@
 
 
 ###  Summary
-- I'm a **Master Student [@Jagiellonian University](https://www.uj.edu.pl/)** pursuing degree in Financial Mathematics
--  I’m currently writing my master's thesis on imporving long-term Bellmann equation with reinforced learning 
+- **MCs [@Jagiellonian University](https://www.uj.edu.pl/)** in Financial Mathematics
+- Credit Risk Model Developer (Python), Data Scientist at **Citi**
 - My points of interest are: 
   - Machine Learning and Data Science
   - Sports & Esports Data Analysis
   - Algebraic and Tropical Geometry
   - Quantitative Finance and Risk Management
+  - Option Pricing Theory
+  - Fencing, history and long distance running
 - I speak Polish, English and German
 
 
